@@ -1,1 +1,5 @@
-a.php
+<?php 
+
+echo 'Hello world';
+
+ ?>
